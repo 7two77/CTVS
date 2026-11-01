@@ -1,0 +1,44 @@
+{
+  "version": "0.1",
+  "transition_interval_minutes": 15,
+  "states": {
+    "S0": {
+      "name": "CALM",
+      "predicate": "low_E AND low_Dir",
+      "thresholds": {
+        "E_max": 0.3,
+        "Dir_max": 0.2
+      }
+    },
+    "S1": {
+      "name": "UP_DRIFT",
+      "predicate": "Dir > 0.4",
+      "thresholds": {
+        "Dir_min": 0.4
+      }
+    },
+    "S2": {
+      "name": "DOWN_DRIFT",
+      "predicate": "Dir < -0.4",
+      "thresholds": {
+        "Dir_max": -0.4
+      }
+    },
+    "S3": {
+      "name": "HIGH_VOL_CHOP",
+      "predicate": "high_E AND low_Dir",
+      "thresholds": {
+        "E_min": 0.7,
+        "Dir_max": 0.3
+      }
+    },
+    "S4": {
+      "name": "SHOCK",
+      "predicate": "extreme_E",
+      "thresholds": {
+        "E_min": 0.9
+      }
+    }
+  }
+}
+

@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": 1704067200,
+    "state": "S0"
+  },
+  {
+    "timestamp": 1704068100,
+    "state": "S0"
+  },
+  {
+    "timestamp": 1704069000,
+    "state": "S0"
+  },
+  {
+    "timestamp": 1704069900,
+    "state": "S0"
+  },
+  {
+    "timestamp": 1704070800,
+    "state": "S1"
+  },
+  {
+    "timestamp": 1704071700,
+    "state": "S1"
+  },
+  {
+    "timestamp": 1704072600,
+    "state": "S1"
+  },
+  {
+    "timestamp": 1704073500,
+    "state": "S2"
+  },
+  {
+    "timestamp": 1704074400,
+    "state": "S2"
+  },
+  {
+    "timestamp": 1704075300,
+    "state": "S2"
+  },
+  {
+    "timestamp": 1704076200,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704077100,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704078000,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704078900,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704079800,
+    "state": "S4"
+  },
+  {
+    "timestamp": 1704080700,
+    "state": "S4"
+  },
+  {
+    "timestamp": 1704081600,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704082500,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704083400,
+    "state": "S2"
+  },
+  {
+    "timestamp": 1704084300,
+    "state": "S2"
+  },
+  {
+    "timestamp": 1704085200,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704086100,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704087000,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704087900,
+    "state": "S3"
+  },
+  {
+    "timestamp": 1704088800,
+    "state": "S3"
+  }
+]

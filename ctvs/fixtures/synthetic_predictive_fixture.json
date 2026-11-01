@@ -1,0 +1,32 @@
+[
+  {"timestamp": 1000, "state": "S0", "return_forward": 0.001},
+  {"timestamp": 2000, "state": "S0", "return_forward": 0.002},
+  {"timestamp": 3000, "state": "S0", "return_forward": 0.001},
+  {"timestamp": 4000, "state": "S0", "return_forward": 0.003},
+  {"timestamp": 5000, "state": "S0", "return_forward": 0.002},
+  
+  {"timestamp": 6000, "state": "S1", "return_forward": 0.050},
+  {"timestamp": 7000, "state": "S1", "return_forward": 0.052},
+  {"timestamp": 8000, "state": "S1", "return_forward": 0.048},
+  {"timestamp": 9000, "state": "S1", "return_forward": 0.051},
+  {"timestamp": 10000, "state": "S1", "return_forward": 0.049},
+  
+  {"timestamp": 11000, "state": "S2", "return_forward": -0.050},
+  {"timestamp": 12000, "state": "S2", "return_forward": -0.048},
+  {"timestamp": 13000, "state": "S2", "return_forward": -0.052},
+  {"timestamp": 14000, "state": "S2", "return_forward": -0.049},
+  {"timestamp": 15000, "state": "S2", "return_forward": -0.051},
+  
+  {"timestamp": 16000, "state": "S3", "return_forward": 0.000},
+  {"timestamp": 17000, "state": "S3", "return_forward": 0.001},
+  {"timestamp": 18000, "state": "S3", "return_forward": -0.001},
+  {"timestamp": 19000, "state": "S3", "return_forward": 0.002},
+  {"timestamp": 20000, "state": "S3", "return_forward": 0.000},
+  
+  {"timestamp": 21000, "state": "S4", "return_forward": 0.100},
+  {"timestamp": 22000, "state": "S4", "return_forward": -0.090},
+  {"timestamp": 23000, "state": "S4", "return_forward": 0.110},
+  {"timestamp": 24000, "state": "S4", "return_forward": -0.100},
+  {"timestamp": 25000, "state": "S4", "return_forward": 0.090}
+]
+
